@@ -25,4 +25,4 @@ Please read [CONTRIBUTING.md](https://gist.github.com/PurpleBooth/b24679402957c6
 
 ## Author
 
-* **[Marco Koch](mailto:marco.koch@sap.com)** - *Initial work*
+* **[Marco Koch](mailto:marco.koch.hh@gmail.com)** - *Initial work*
