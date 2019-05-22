@@ -1,0 +1,23 @@
+language: java
+sudo: false
+
+jdk:
+  - openjdk8
+  - openjdk9
+  - openjdk10
+  - oraclejdk8
+  - oraclejdk9
+  - oraclejdk11
+  
+cache:
+  directories:
+    - "$HOME/.m2/repository"
+    - "$HOME/.m2/wrapper"
+    
+install: true
+
+script: mvn clean verify
+
+notifications:
+  email: false
+  
