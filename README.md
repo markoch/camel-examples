@@ -9,11 +9,11 @@
 
 Some examples of using [Apache Camel](https://camel.apache.org/) and [ActiveMQ](https://activemq.apache.org/).
 
-* **[CamelDSLExample](https://github.wdf.sap.corp/d055125/camel-examples/blob/master/src/main/java/com/mkoch/camel/CamelDSLExample.java)** - *Push a message*
+* **[CamelDSLExample](https://github.com/markoch/camel-examples/blob/master/src/main/java/com/mkoch/camel/CamelDSLExample.java)** - *Push a message*
 
-* **[CamelTimerExample](https://github.wdf.sap.corp/d055125/camel-examples/blob/master/src/main/java/com/mkoch/camel/CamelTimerExample.java)** - *Pull messages*
+* **[CamelTimerExample](https://github.com/markoch/camel-examples/blob/master/src/main/java/com/mkoch/camel/CamelTimerExample.java)** - *Pull messages*
 
-* **[CamelSpringExample](https://github.wdf.sap.corp/d055125/camel-examples/blob/master/src/main/java/com/mkoch/camel/CamelSpringExample.java)** - *Define route using Spring framework*
+* **[CamelSpringExample](https://github.com/markoch/camel-examples/blob/master/src/main/java/com/mkoch/camel/CamelSpringExample.java)** - *Define route using Spring framework*
   
 ## Versioning
 
