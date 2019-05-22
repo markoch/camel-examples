@@ -4,6 +4,7 @@
 
 # Camel Examples
 
+[![Build Status](https://travis-ci.org/markoch/camel-examples.svg?branch=master)](https://travis-ci.org/markoch/camel-examples)
 [![Java Proggramming Language](https://img.shields.io/badge/language-Java-brightgreen.svg)](https://www.oracle.com/technetwork/java/index.html)
 
 Some examples of using [Apache Camel](https://camel.apache.org/) and [ActiveMQ](https://activemq.apache.org/).
