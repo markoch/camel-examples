@@ -9,8 +9,7 @@ import org.apache.camel.impl.DefaultCamelContext;
  * Camel route using a Time Start component:
  * 
  * from("timer://myTimer?period=2000")
- * .setBody()
- * .simple("Hello World Camel fired at ${header.firedTime}")
+ * .setBody().simple("Hello World Camel fired at ${header.firedTime}")
  * .to("stream:out") 
  */
 public class CamelTimerExample {
@@ -21,8 +20,7 @@ public class CamelTimerExample {
                 @Override
                 public void configure() throws Exception {
                     from("timer://myTimer?period=2000")
-                    .setBody()
-                    .simple("Hello World Camel fired at ${header.firedTime}")
+                    .setBody().simple("Hello World Camel fired at ${header.firedTime}")
                     .to("stream:out");
                 }
             });
