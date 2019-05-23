@@ -11,7 +11,7 @@ This repository contains some examples of using [Apache Camel](https://camel.apa
 
 * **[CamelDSLExample](https://github.com/markoch/camel-examples/blob/master/src/main/java/com/mkoch/camel/CamelDSLExample.java)** - *Push a message*
 
-* **[CamelTimerExample](https://github.com/markoch/camel-examples/blob/master/src/main/java/com/mkoch/camel/CamelTimerExample.java)** - *Pull messages*
+* **[CamelTimerExample](https://github.com/markoch/camel-examples/blob/master/src/main/java/com/mkoch/camel/CamelTimerExample.java)** - *Trigger a message using a Timer component*
 
 * **[CamelSpringExample](https://github.com/markoch/camel-examples/blob/master/src/main/java/com/mkoch/camel/CamelSpringExample.java)** - *Define route using Spring framework*
 
