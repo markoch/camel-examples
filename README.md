@@ -7,14 +7,19 @@
 [![Build Status](https://travis-ci.org/markoch/camel-examples.svg?branch=master)](https://travis-ci.org/markoch/camel-examples)
 [![Java Proggramming Language](https://img.shields.io/badge/language-Java-brightgreen.svg)](https://www.oracle.com/technetwork/java/index.html)
 
-Some examples of using [Apache Camel](https://camel.apache.org/) and [ActiveMQ](https://activemq.apache.org/).
+This repository contains some examples of using [Apache Camel](https://camel.apache.org/) and [ActiveMQ](https://activemq.apache.org/).
 
 * **[CamelDSLExample](https://github.com/markoch/camel-examples/blob/master/src/main/java/com/mkoch/camel/CamelDSLExample.java)** - *Push a message*
 
 * **[CamelTimerExample](https://github.com/markoch/camel-examples/blob/master/src/main/java/com/mkoch/camel/CamelTimerExample.java)** - *Pull messages*
 
 * **[CamelSpringExample](https://github.com/markoch/camel-examples/blob/master/src/main/java/com/mkoch/camel/CamelSpringExample.java)** - *Define route using Spring framework*
-  
+
+## Further Reading
+
+* [Apache Camel Routing Tutorial](https://examples.javacodegeeks.com/enterprise-java/apache-camel/apache-camel-routing-tutorial/)
+* [Apache Camel Hello World example](https://examples.javacodegeeks.com/enterprise-java/apache-camel/apache-camel-hello-world-example/)
+
 ## Versioning
 
 We use [SemVer](http://semver.org/) for versioning. For the versions available, see the [tags on this repository](https://github.com/your/project/tags).
