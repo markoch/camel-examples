@@ -5,6 +5,7 @@
 # Camel Examples
 
 [![Build Status](https://travis-ci.org/markoch/camel-examples.svg?branch=master)](https://travis-ci.org/markoch/camel-examples)
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/e541ae0ac84d4b0682ed10b7d7d0be2c)](https://www.codacy.com/app/markoch/camel-examples?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=markoch/camel-examples&amp;utm_campaign=Badge_Grade)
 [![Java Proggramming Language](https://img.shields.io/badge/language-Java-brightgreen.svg)](https://www.oracle.com/technetwork/java/index.html)
 
 This repository contains some examples of using [Apache Camel](https://camel.apache.org/) and [ActiveMQ](https://activemq.apache.org/).
