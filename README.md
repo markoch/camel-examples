@@ -10,9 +10,9 @@
 
 This repository contains some examples of using [Apache Camel](https://camel.apache.org/) and [ActiveMQ](https://activemq.apache.org/).
 
-  * **[CamelDSLExample](https://github.com/markoch/camel-examples/blob/master/src/main/java/com/mkoch/camel/CamelDSLExample.java)** - *Push a message*
-  * **[CamelTimerExample](https://github.com/markoch/camel-examples/blob/master/src/main/java/com/mkoch/camel/CamelTimerExample.java)** - *Trigger a message using a Timer component*
-  * **[CamelSpringExample](https://github.com/markoch/camel-examples/blob/master/src/main/java/com/mkoch/camel/CamelSpringExample.java)** - *Define route using Spring framework*
+* **[CamelDSLExample](https://github.com/markoch/camel-examples/blob/master/src/main/java/com/mkoch/camel/CamelDSLExample.java)** - *Push a message*
+* **[CamelTimerExample](https://github.com/markoch/camel-examples/blob/master/src/main/java/com/mkoch/camel/CamelTimerExample.java)** - *Trigger a message using a Timer component*
+* **[CamelSpringExample](https://github.com/markoch/camel-examples/blob/master/src/main/java/com/mkoch/camel/CamelSpringExample.java)** - *Define route using Spring framework*
 
 ## Versioning
 
@@ -24,8 +24,8 @@ Please read [CONTRIBUTING.md](https://gist.github.com/PurpleBooth/b24679402957c6
 
 ## Further Reading
 
-  * [Apache Camel Routing Tutorial](https://examples.javacodegeeks.com/enterprise-java/apache-camel/apache-camel-routing-tutorial/)
-  * [Apache Camel Hello World example](https://examples.javacodegeeks.com/enterprise-java/apache-camel/apache-camel-hello-world-example/)
+* [Apache Camel Routing Tutorial](https://examples.javacodegeeks.com/enterprise-java/apache-camel/apache-camel-routing-tutorial/)
+* [Apache Camel Hello World example](https://examples.javacodegeeks.com/enterprise-java/apache-camel/apache-camel-hello-world-example/)
 
 ## Author
 
